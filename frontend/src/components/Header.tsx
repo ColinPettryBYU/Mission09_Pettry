@@ -1,5 +1,6 @@
 function Header() {
   return (
+    // Header section that introduces the page.
     <header className="site-header">
       <h1>NCAA Basketball Teams</h1>
       <p>
